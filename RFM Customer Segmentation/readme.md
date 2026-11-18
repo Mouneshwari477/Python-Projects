@@ -11,8 +11,7 @@ Champions alone (25% of customers) drive 69% of revenue ($12M), averaging 15.7 o
 "Lost" and "Hibernating" segments (25% of customers) contribute under 3% of revenue combined — low priority for retention spend compared to At Risk customers.
 
 ## Files
-01_data_cleaning.ipynb — data cleaning (removes cancelled orders, missing customer IDs, duplicates)
-02_rfm_analysis.ipynb — RFM calculation, scoring, and segmentation logic
-03_visualization.ipynb — exploratory visualizations (segment revenue share, recency vs monetary, RF heatmap)
-rfm_segments.csv — full customer-level RFM dataset (Power BI data source)
-Raw dataset: Online Retail II, UCI Machine Learning Repository (not included here due to file size — see 01_data_cleaning.ipynb for the cleaning steps applied).
+01_data_cleaning.ipynb — data cleaning (removes cancelled orders, missing customer IDs, duplicates).
+02_rfm_analysis.ipynb — RFM calculation, scoring, and segmentation logic.
+03_visualization.ipynb — exploratory visualizations (segment revenue share, recency vs monetary, RF heatmap).
+rfm_segments.csv — full customer-level RFM dataset (Power BI data source).
